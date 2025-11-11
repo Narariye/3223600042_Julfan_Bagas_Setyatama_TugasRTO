@@ -44,4 +44,8 @@ Untuk komunikasi antar task, gunakan queue, semaphore, ataupun variable global y
 4. Build dan Jalankan Simulasi
 Setelah wiring dan kode lengkap, klik "Start Simulation" di pojok kanan atas pada Wokwi.
 
+
 Wokwi akan menjalankan virtual ESP32 dan peripheral, sehingga kamu bisa melihat hasil simulasi secara real-time pada GUI.
+
+dokumentasi dapat dilihat di drive berikut
+https://drive.google.com/drive/folders/1sEPxEbqL2zgaJsMFHlgMa53SJ9DTDomd
